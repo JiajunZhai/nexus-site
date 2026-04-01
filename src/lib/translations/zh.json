@@ -1,0 +1,346 @@
+{
+  "nav": {
+    "solutions": "解决方案",
+    "neuralEngine": "神经引擎",
+    "research": "研究",
+    "about": "关于",
+    "login": "登录",
+    "getAccess": "立即体验"
+  },
+  "hero": {
+    "badge": "下一代神经架构",
+    "title": "构建",
+    "titleGradient": "合成智能体",
+    "description": "通过先进的神经系统重新定义人类与技术的关系，这些系统能够实时观察、学习和进化。",
+    "ctaPrimary": "启动核心访问",
+    "ctaSecondary": "查看研究论文",
+    "scrollLabel": "向下滚动"
+  },
+  "technologies": {
+    "badge": "基础堆栈",
+    "title": "核心神经技术",
+    "description": "我们的平台运行在生物模拟与计算效率的交叉点。",
+    "synapticEngine": {
+      "title": "突触复制引擎",
+      "description": "模仿人类神经通路，创造不仅能计算，还能理解上下文和细微差别的AI。"
+    },
+    "adaptiveLearning": {
+      "title": "自适应学习",
+      "description": "通过本地化节点更新减少94%训练延迟的持续进化周期。"
+    },
+    "ethicsLogic": {
+      "title": "伦理优先逻辑",
+      "description": "硬编码的对齐协议，确保每次推理都遵循严格的伦理框架。"
+    },
+    "stats": {
+      "inferenceAccuracy": "推理准确率",
+      "globalLatency": "全球延迟",
+      "processingPower": "处理能力",
+      "deployment": "部署能力"
+    }
+  },
+  "research": {
+    "title": "前沿研究与智能",
+    "description": "我们的实验室不断突破计算的边界。我们相信开放核心创新与企业级安全相结合。",
+    "mission": {
+      "label": "进行中的任务",
+      "title": "项目：以太意识",
+      "description": "通过分布式卫星节点去中心化AI记忆。"
+    },
+    "projects": {
+      "1": {
+        "title": "神经语言映射",
+        "description": "将基于思维的神经脉冲转换为零误差的数字命令。"
+      },
+      "2": {
+        "title": "量子推理模型",
+        "description": "利用非二进制逻辑门在几秒钟内解决非线性复杂问题。"
+      },
+      "3": {
+        "title": "生物数字接口",
+        "description": "在生物系统与合成智能之间创建安全的高带宽桥梁。"
+      }
+    }
+  },
+  "cta": {
+    "title": "保障您企业的未来",
+    "description": "与NexusSite合作，将定制神经架构集成到您现有的基础设施中。为全球先锋提供定制解决方案。",
+    "primary": "申请合作",
+    "secondary": "联系终端"
+  },
+  "footer": {
+    "copyright": "© 2024 NexusSite AI Systems. 由合成以太定义。",
+    "links": {
+      "apiDocs": "API文档",
+      "ethics": "伦理框架",
+      "status": "系统状态",
+      "privacy": "隐私终端"
+    }
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "viewAll": "查看全部",
+    "contactUs": "联系我们"
+  },
+  "about": {
+    "hero": {
+      "badge": "智能的起源",
+      "title": "定义人类",
+      "titleGradient": "合成以太",
+      "suffix": "为人类。",
+      "description1": "我们相信智能不是被开采的资源，而是被培养的氛围。NexusSite成立于神经架构与伦理哲学的交汇处，旨在构建一个未来，让AI成为人类意图的无缝延伸。",
+      "description2": "我们的使命是构建与强大同样透明的系统，确保'合成以太'仍然是全球创新的中立、赋能之地。"
+    },
+    "timeline": {
+      "title": "创新纪元",
+      "description": "从第一个逻辑火花到当前的合成意识状态，追踪我们神经架构的演进。",
+      "milestones": {
+        "2020": {
+          "label": "创世核心",
+          "title": "基础模型",
+          "description": "多模态感知和零样本推理框架的首次突破。"
+        },
+        "2022": {
+          "label": "以太协议",
+          "title": "神经抽象",
+          "description": "部署第一个去中心化AI网格，实现可扩展的边缘智能。"
+        },
+        "2023": {
+          "label": "哨兵AI",
+          "title": "伦理对齐",
+          "description": "实施'玻璃盒'可解释性套件，实现实时模型审计。"
+        },
+        "2024": {
+          "label": "Nexus引擎",
+          "title": "合成生活",
+          "description": "推出跨行业自主复杂任务编排的统一接口。"
+        }
+      },
+      "viewWhitepaper": "查看白皮书"
+    },
+    "team": {
+      "title": "架构师",
+      "description": "一个由工程师、哲学家和设计师组成的集体，致力于智能系统的工艺。",
+      "members": {
+        "aris": {
+          "name": "Dr. Aris Thorne",
+          "role": "首席神经架构师"
+        },
+        "elena": {
+          "name": "Elena Vance",
+          "role": "伦理设计主管"
+        },
+        "marcus": {
+          "name": "Marcus Sterling",
+          "role": "工程主管"
+        },
+        "sana": {
+          "name": "Sana Jaffery",
+          "role": "研究总监"
+        }
+      }
+    },
+    "ethics": {
+      "title": "哨兵协议",
+      "description": "我们对伦理AI的承诺不仅仅是政策——它被硬编码到我们的架构中。我们基于三个基本支柱运营：",
+      "pillars": {
+        "transparency": {
+          "title": "激进透明",
+          "description": "我们的神经引擎做出的每个决策都是可追踪和可解释的。"
+        },
+        "dataSovereignty": {
+          "title": "数据主权",
+          "description": "用户数据默认加密，未经明确的终端级同意绝不使用于训练。"
+        },
+        "neutrality": {
+          "title": "算法中立",
+          "description": "由独立伦理委员会持续进行偏差缓解审计。"
+        }
+      },
+      "verifiedSystem": "已验证系统",
+      "systemStatus": "ENCRYPT_SHA_256_ACTIVE"
+    },
+    "cta": {
+      "title": "见证转变。",
+      "primary": "申请测试版访问",
+      "secondary": "阅读伦理框架"
+    }
+  },
+  "solutions": {
+    "hero": {
+      "badge": "面向未来的基础设施",
+      "title": "合成",
+      "titleGradient": "智能目录",
+      "description": "通过模块化逻辑单元和神经架构部署高精度AI应用。探索NexusSite核心产品。"
+    },
+    "products": {
+      "neuralEngine": {
+        "number": "01",
+        "version": "N-ENGINE V.4",
+        "title": "神经引擎API",
+        "description": "为实时合成非结构化数据向量而设计的高吞吐量认知处理接口。",
+        "specs": {
+          "latency": "延迟",
+          "concurrency": "并发",
+          "encryption": "加密",
+          "stability": "稳定性",
+          "latencyValue": "0.02ms",
+          "concurrencyValue": "∞ UNIT",
+          "encryptionValue": "QUANTUM-RES",
+          "stabilityValue": "99.999%"
+        },
+        "cta": "访问文档"
+      },
+      "predictiveVision": {
+        "number": "02",
+        "version": "OPTIC-V_SYSTEM",
+        "title": "预测视觉",
+        "description": "用于空间预测和亚毫米精度物体分类的超光谱分析引擎。",
+        "specs": {
+          "scanDepth": "扫描深度",
+          "objectIdAcc": "物体识别精度",
+          "refreshRate": "刷新率",
+          "scanDepthValue": "400.00 M",
+          "objectIdAccValue": "99.8%",
+          "refreshRateValue": "1200 FPS"
+        },
+        "cta": "查看实时演示"
+      },
+      "autonomousLogic": {
+        "number": "03",
+        "title": "自主逻辑单元",
+        "description": "合成决策的基石。ALU模块为复杂工业和数字环境提供去中心化推理能力。",
+        "features": {
+          "modular": {
+            "title": "模块化",
+            "description": "热插拔逻辑集群"
+          },
+          "isolated": {
+            "title": "隔离",
+            "description": "TEE安全环境执行"
+          },
+          "fast": {
+            "title": "快速",
+            "description": "低功耗推理"
+          }
+        },
+        "cta": "配置ALU堆栈",
+        "status": {
+          "label": "系统健康",
+          "value": "OPERATIONAL",
+          "load": "逻辑负载",
+          "loadValue": "12.4 TFLOPS"
+        }
+      }
+    },
+    "cta": {
+      "title": "今天就集成合成以太。",
+      "description": "NexusSite提供基础设施。您的愿景。加入智能系统的下一个进化。",
+      "primary": "与架构师对话",
+      "secondary": "探索生态系统"
+    }
+  },
+  "neuralEngine": {
+    "badge": "核心智能平台",
+    "title": "神经",
+    "titleGradient": "引擎",
+    "description": "我们的旗舰神经处理平台通过先进的突触架构和实时自适应学习提供前所未有的认知能力。",
+    "features": {
+      "core": {
+        "title": "核心能力",
+        "description": "用于企业级部署的高级神经处理。",
+        "items": [
+          "实时上下文理解",
+          "多模态数据合成",
+          "零延迟推理",
+          "自优化算法"
+        ]
+      },
+      "performance": {
+        "title": "性能指标",
+        "description": "行业领先的性能指标。",
+        "items": [
+          "99.999% 正常运行时间保证",
+          "亚毫秒响应时间",
+          "无限水平扩展",
+          "量子抗加密"
+        ]
+      }
+    },
+    "cta": "部署神经引擎"
+  },
+  "careers": {
+    "hero": {
+      "badge": "在NexusSite的职业生涯",
+      "title": "合成您的",
+      "titleGradient": "潜力",
+      "description": "我们正在寻找人工建筑师、神经网络梦想家和想要构建合成以太织体的系统工程师。"
+    },
+    "research": {
+      "title": "研究实验室：超越限制",
+      "description": "我们的研究不受季度预测的约束。我们投资于长期神经探索。在这里，您将获得100+ Petaflops的专用计算来测试生成架构和自主推理系统的极限。",
+      "features": {
+        "alu": {
+          "title": "自主逻辑单元",
+          "description": "为关键任务部署开发自纠正神经通路。"
+        },
+        "quantum": {
+          "title": "量子神经接口",
+          "description": "探索概率计算与标准神经逻辑之间的边界。"
+        }
+      },
+      "label": "研究实验室",
+      "subtitle": "抽象理论遇见神经硬件执行的地方。"
+    },
+    "culture": {
+      "title": "神经协作文化",
+      "description": "我们的文化是情报的点对点网络。我们重视信号大于噪音，逻辑大于层级，突破大于增量。",
+      "manifesto": {
+        "label": "宣言",
+        "title": "激进自主，共同目标。",
+        "description": "我们不相信中层管理。NexusSite的每位工程师都是其领域的主要所有者。我们通过共享技术标准而不是官僚会议进行协作。"
+      },
+      "hybrid": {
+        "title": "混合融合",
+        "description": "在合成以太的任何地方工作。我们的分布式总部跨越14个时区，通过低延迟神经同步连接。"
+      },
+      "open": {
+        "title": "开放系统",
+        "description": "我们将30%的代码贡献给开源神经社区。"
+      },
+      "wellness": {
+        "title": "整体健康",
+        "description": "包括个性化健康技术和生物反馈的生物优化。"
+      }
+    },
+    "positions": {
+      "title": "开放职位",
+      "jobs": {
+        "aiResearch": {
+          "title": "AI研究主管",
+          "tag": "研究",
+          "location": "旧金山/远程",
+          "experience": "8+年经验"
+        },
+        "neuralArchitect": {
+          "title": "神经网络架构师",
+          "tag": "架构",
+          "location": "伦敦/远程",
+          "experience": "5+年经验"
+        },
+        "backendEngineer": {
+          "title": "后端系统工程师",
+          "tag": "工程",
+          "location": "东京/远程",
+          "experience": "4+年经验"
+        }
+      },
+      "cta": "查看详情",
+      "general": {
+        "title": "没有看到适合您的？",
+        "description": "我们总是在寻找我们甚至尚未命名字段的 exceptional 人才。",
+        "button": "发送通用申请"
+      }
+    }
+  }
+}
