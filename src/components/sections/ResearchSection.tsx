@@ -42,13 +42,13 @@ export default function ResearchSection({ dict }: ResearchSectionProps) {
               className="absolute bottom-12 -right-12 glass-panel p-8 rounded-xl z-20 border border-outline-variant/20 max-w-[280px]"
             >
               <p className="text-primary font-bold text-sm mb-2 font-headline uppercase tracking-widest">
-                {dict.research.mission.label}
+                {dict.researchSection.mission.label}
               </p>
               <h4 className="text-xl font-headline font-bold leading-tight">
-                {dict.research.mission.title}
+                {dict.researchSection.mission.title}
               </h4>
               <p className="text-on-surface-variant text-sm mt-3 font-body">
-                {dict.research.mission.description}
+                {dict.researchSection.mission.description}
               </p>
             </motion.div>
           </motion.div>
@@ -62,10 +62,10 @@ export default function ResearchSection({ dict }: ResearchSectionProps) {
           >
             <div>
               <h2 className="text-5xl font-headline font-bold tracking-tighter mb-8 leading-tight">
-                {dict.research.title}
+                {dict.researchSection.title}
               </h2>
               <p className="text-on-surface-variant text-lg leading-relaxed mb-8">
-                {dict.research.description}
+                {dict.researchSection.description}
               </p>
             </div>
 
@@ -84,10 +84,10 @@ export default function ResearchSection({ dict }: ResearchSectionProps) {
                   </span>
                   <div>
                     <h4 className={`text-xl font-headline font-bold group-hover:text-${project.color.replace('text-', '')} transition-colors`}>
-                      {dict.research.projects[project.key as keyof typeof dict.research.projects].title}
+                      {dict.researchSection.projects[project.key].title}
                     </h4>
                     <p className="text-on-surface-variant mt-2">
-                      {dict.research.projects[project.key as keyof typeof dict.research.projects].description}
+                      {dict.researchSection.projects[project.key].description}
                     </p>
                   </div>
                 </motion.div>

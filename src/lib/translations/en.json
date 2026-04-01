@@ -39,7 +39,7 @@
       "deployment": "Deployment Capability"
     }
   },
-  "research": {
+  "researchSection": {
     "title": "Frontier Research & Intelligence.",
     "description": "Our labs are constantly pushing the boundaries of what is computationally possible. We believe in open-core innovation paired with enterprise-grade security.",
     "mission": {
@@ -77,85 +77,43 @@
       "privacy": "Privacy Terminal"
     }
   },
-  "common": {
-    "learnMore": "Learn More",
-    "viewAll": "View All",
-    "contactUs": "Contact Us"
-  },
   "about": {
     "hero": {
       "badge": "The Origin of Intelligence",
       "title": "Defining the",
       "titleGradient": "Synthetic Ether",
       "suffix": "for Humanity.",
-      "description1": "We believe intelligence is not a resource to be mined, but an atmosphere to be cultivated. NexusSite was founded at the intersection of neural architecture and ethical philosophy, aiming to build a future where AI serves as a seamless extension of human intent.",
-      "description2": "Our mission is to architect systems that are as transparent as they are powerful, ensuring that the 'Synthetic Ether' remains a neutral, empowering ground for global innovation."
+      "description1": "We believe intelligence is not a resource to be mined, but an atmosphere to be cultivated.",
+      "description2": "Our mission is to architect systems that are as transparent as they are powerful."
     },
     "timeline": {
       "title": "Epochs of Innovation",
-      "description": "Tracing the evolution of our neural architectures from the first spark of logic to the current state of synthetic consciousness.",
+      "description": "Tracing the evolution of our neural architectures.",
       "milestones": {
-        "2020": {
-          "label": "The Genesis Core",
-          "title": "Foundation Models",
-          "description": "Initial breakthroughs in multi-modal perception and zero-shot reasoning frameworks."
-        },
-        "2022": {
-          "label": "Ether Protocol",
-          "title": "Neural Abstraction",
-          "description": "Deployment of the first decentralized AI mesh, allowing for scalable, edge-based intelligence."
-        },
-        "2023": {
-          "label": "Sentinel AI",
-          "title": "Ethics Alignment",
-          "description": "Implementation of the 'Glass Box' interpretability suite for real-time model auditing."
-        },
-        "2024": {
-          "label": "Nexus Engine",
-          "title": "Synthetic Living",
-          "description": "Launching the unified interface for autonomous complex task orchestration across industries."
-        }
+        "2020": { "label": "The Genesis Core", "title": "Foundation Models", "description": "Initial breakthroughs in multi-modal perception." },
+        "2022": { "label": "Ether Protocol", "title": "Neural Abstraction", "description": "Deployment of the first decentralized AI mesh." },
+        "2023": { "label": "Sentinel AI", "title": "Ethics Alignment", "description": "Implementation of the 'Glass Box' interpretability suite." },
+        "2024": { "label": "Nexus Engine", "title": "Synthetic Living", "description": "Launching the unified interface for autonomous task orchestration." }
       },
       "viewWhitepaper": "View Whitepaper"
     },
     "team": {
       "title": "The Architects",
-      "description": "A collective of engineers, philosophers, and designers dedicated to the craft of intelligent systems.",
+      "description": "A collective of engineers, philosophers, and designers dedicated to intelligent systems.",
       "members": {
-        "aris": {
-          "name": "Dr. Aris Thorne",
-          "role": "Chief Neural Architect"
-        },
-        "elena": {
-          "name": "Elena Vance",
-          "role": "Lead of Ethical Design"
-        },
-        "marcus": {
-          "name": "Marcus Sterling",
-          "role": "Head of Engineering"
-        },
-        "sana": {
-          "name": "Sana Jaffery",
-          "role": "Director of Research"
-        }
+        "aris": { "name": "Dr. Aris Thorne", "role": "Chief Neural Architect" },
+        "elena": { "name": "Elena Vance", "role": "Lead of Ethical Design" },
+        "marcus": { "name": "Marcus Sterling", "role": "Head of Engineering" },
+        "sana": { "name": "Sana Jaffery", "role": "Director of Research" }
       }
     },
     "ethics": {
       "title": "The Sentinel Protocol",
-      "description": "Our commitment to ethical AI isn't just a policy—it's hard-coded into our architecture. We operate on three fundamental pillars:",
+      "description": "Our commitment to ethical AI is hard-coded into our architecture.",
       "pillars": {
-        "transparency": {
-          "title": "Radical Transparency",
-          "description": "Every decision made by our neural engine is traceable and explainable."
-        },
-        "dataSovereignty": {
-          "title": "Data Sovereignty",
-          "description": "User data is encrypted by default and never used for training without explicit terminal-level consent."
-        },
-        "neutrality": {
-          "title": "Algorithmic Neutrality",
-          "description": "Continuous bias-mitigation audits conducted by independent ethical boards."
-        }
+        "transparency": { "title": "Radical Transparency", "description": "Every decision is traceable and explainable." },
+        "dataSovereignty": { "title": "Data Sovereignty", "description": "User data is encrypted by default." },
+        "neutrality": { "title": "Algorithmic Neutrality", "description": "Continuous bias-mitigation audits." }
       },
       "verifiedSystem": "Verified System",
       "systemStatus": "ENCRYPT_SHA_256_ACTIVE"
@@ -171,169 +129,97 @@
       "badge": "Future-Proof Infrastructure",
       "title": "Synthetic",
       "titleGradient": "Intelligence Catalog",
-      "description": "Deploying high-fidelity AI applications through modular logic units and neural architectures. Explore the NexusSite core products."
+      "description": "Deploying high-fidelity AI applications through modular logic units."
     },
     "products": {
       "neuralEngine": {
-        "number": "01",
-        "version": "N-ENGINE V.4",
-        "title": "Neural Engine API",
-        "description": "High-throughput cognitive processing interface designed for real-time synthesis of unstructured data vectors.",
-        "specs": {
-          "latency": "LATENCY",
-          "concurrency": "CONCURRENCY",
-          "encryption": "ENCRYPTION",
-          "stability": "STABILITY",
-          "latencyValue": "0.02ms",
-          "concurrencyValue": "∞ UNIT",
-          "encryptionValue": "QUANTUM-RES",
-          "stabilityValue": "99.999%"
-        },
+        "number": "01", "version": "N-ENGINE V.4", "title": "Neural Engine API",
+        "description": "High-throughput cognitive processing interface.",
+        "specs": { "latency": "LATENCY", "concurrency": "CONCURRENCY", "encryption": "ENCRYPTION", "stability": "STABILITY", "latencyValue": "0.02ms", "concurrencyValue": "∞ UNIT", "encryptionValue": "QUANTUM-RES", "stabilityValue": "99.999%" },
         "cta": "ACCESS DOCUMENTATION"
       },
       "predictiveVision": {
-        "number": "02",
-        "version": "OPTIC-V_SYSTEM",
-        "title": "Predictive Vision",
-        "description": "Hyper-spectral analysis engine for spatial prediction and object classification with sub-millimeter precision.",
-        "specs": {
-          "scanDepth": "SCAN_DEPTH",
-          "objectIdAcc": "OBJECT_ID_ACC",
-          "refreshRate": "REFRESH_RATE",
-          "scanDepthValue": "400.00 M",
-          "objectIdAccValue": "99.8%",
-          "refreshRateValue": "1200 FPS"
-        },
+        "number": "02", "version": "OPTIC-V_SYSTEM", "title": "Predictive Vision",
+        "description": "Hyper-spectral analysis engine for spatial prediction.",
+        "specs": { "scanDepth": "SCAN_DEPTH", "objectIdAcc": "OBJECT_ID_ACC", "refreshRate": "REFRESH_RATE", "scanDepthValue": "400.00 M", "objectIdAccValue": "99.8%", "refreshRateValue": "1200 FPS" },
         "cta": "VIEW LIVE DEMO"
       },
       "autonomousLogic": {
-        "number": "03",
-        "title": "Autonomous Logic Units",
-        "description": "The bedrock of synthetic decision-making. ALU modules provide decentralized reasoning capabilities for complex industrial and digital environments.",
+        "number": "03", "title": "Autonomous Logic Units",
+        "description": "The bedrock of synthetic decision-making.",
         "features": {
-          "modular": {
-            "title": "Modular",
-            "description": "Hot-swappable logic clusters"
-          },
-          "isolated": {
-            "title": "Isolated",
-            "description": "TEE secure environment execution"
-          },
-          "fast": {
-            "title": "Fast",
-            "description": "Low-wattage inference"
-          }
+          "modular": { "title": "Modular", "description": "Hot-swappable logic clusters" },
+          "isolated": { "title": "Isolated", "description": "TEE secure environment execution" },
+          "fast": { "title": "Fast", "description": "Low-wattage inference" }
         },
         "cta": "CONFIGURE ALU STACK",
-        "status": {
-          "label": "SYSTEM_HEALTH",
-          "value": "OPERATIONAL",
-          "load": "LOGIC_LOAD",
-          "loadValue": "12.4 TFLOPS"
-        }
+        "status": { "label": "SYSTEM_HEALTH", "value": "OPERATIONAL", "load": "LOGIC_LOAD", "loadValue": "12.4 TFLOPS" }
       }
     },
-"cta": {
-      "title": "Integrate Synthetic Ether Today.",
-      "description": "NexusSite provides the infrastructure. You provide the vision. Join the next evolution of intelligent systems.",
-      "primary": "TALK TO AN ARCHITECT",
-      "secondary": "EXPLORE ECOSYSTEM"
-    }
+    "cta": { "title": "Integrate Synthetic Ether Today.", "description": "NexusSite provides the infrastructure.", "primary": "TALK TO AN ARCHITECT", "secondary": "EXPLORE ECOSYSTEM" }
   },
   "neuralEngine": {
     "badge": "Core Intelligence Platform",
     "title": "Neural",
     "titleGradient": "Engine",
-    "description": "Our flagship neural processing platform delivers unprecedented cognitive capabilities through advanced synaptic architecture and real-time adaptive learning.",
+    "description": "Our flagship neural processing platform delivers unprecedented cognitive capabilities.",
     "features": {
       "core": {
         "title": "Core Capabilities",
         "description": "Advanced neural processing for enterprise-scale deployments.",
-        "items": [
-          "Real-time context understanding",
-          "Multi-modal data synthesis",
-          "Zero-latency inference",
-          "Self-optimizing algorithms"
-        ]
+        "items": ["Real-time context understanding", "Multi-modal data synthesis", "Zero-latency inference", "Self-optimizing algorithms"]
       },
       "performance": {
         "title": "Performance Metrics",
         "description": "Industry-leading performance metrics.",
-        "items": [
-          "99.999% uptime guarantee",
-          "Sub-millisecond response time",
-          "Infinite horizontal scaling",
-          "Quantum-resistant encryption"
-        ]
+        "items": ["99.999% uptime guarantee", "Sub-millisecond response time", "Infinite horizontal scaling", "Quantum-resistant encryption"]
       }
     },
     "cta": "Deploy Neural Engine"
   },
   "research": {
+    "title": "The Research Lab: Beyond Constraints",
+    "description": "Our research is not bound by quarterly projections. We invest in long-horizon neural exploration.",
+    "features": {
+      "alu": { "title": "Autonomous Logic Units", "description": "Developing self-correcting neural pathways for mission-critical deployments." },
+      "quantum": { "title": "Quantum-Neural Interfacing", "description": "Exploring the boundary between probabilistic computing and standard neural logic." }
+    },
+    "label": "The Research Lab"
+  },
+  "careers": {
+    "hero": {
+      "badge": "Careers at NexusSite",
+      "title": "Synthesize Your",
+      "titleGradient": "Potential",
+      "description": "We are looking for architects of the artificial and systems engineers."
+    },
+    "research": {
       "title": "The Research Lab: Beyond Constraints",
-      "description": "Our research is not bound by quarterly projections. We invest in long-horizon neural exploration. Here, you'll have access to 100+ Petaflops of dedicated compute to test the limits of generative architecture and autonomous reasoning systems.",
+      "description": "We invest in long-horizon neural exploration.",
       "features": {
-        "alu": {
-          "title": "Autonomous Logic Units",
-          "description": "Developing self-correcting neural pathways for mission-critical deployments."
-        },
-        "quantum": {
-          "title": "Quantum-Neural Interfacing",
-          "description": "Exploring the boundary between probabilistic computing and standard neural logic."
-        }
+        "alu": { "title": "Autonomous Logic Units", "description": "Self-correcting neural pathways." },
+        "quantum": { "title": "Quantum-Neural Interfacing", "description": "Probabilistic computing exploration." }
       },
       "label": "The Research Lab",
       "subtitle": "Where abstract theory meets neural hardware execution."
     },
     "culture": {
       "title": "Neural Collaboration Culture",
-      "description": "Our culture is a peer-to-peer network of intelligence. We value signal over noise, logic over hierarchy, and breakthrough over increment.",
-      "manifesto": {
-        "label": "Manifesto",
-        "title": "Radical Autonomy, Shared Purpose.",
-        "description": "We don't believe in middle management. Every engineer at NexusSite is a principal owner of their domain. We collaborate via shared technical standards, not bureaucratic meetings."
-      },
-      "hybrid": {
-        "title": "Hybrid Convergence",
-        "description": "Work from anywhere in the synthetic ether. Our distributed HQ spans 14 time zones, connected by low-latency neural syncs."
-      },
-      "open": {
-        "title": "Open Systems",
-        "description": "We contribute 30% of our code to the open-source neural community."
-      },
-      "wellness": {
-        "title": "Total Wellness",
-        "description": "Biological optimization including personalized health-tech and bio-feedback."
-      }
+      "description": "Our culture is a peer-to-peer network of intelligence.",
+      "manifesto": { "label": "Manifesto", "title": "Radical Autonomy, Shared Purpose.", "description": "We don't believe in middle management." },
+      "hybrid": { "title": "Hybrid Convergence", "description": "Work from anywhere in the synthetic ether." },
+      "open": { "title": "Open Systems", "description": "We contribute 30% of our code to open-source." },
+      "wellness": { "title": "Total Wellness", "description": "Biological optimization including personalized health-tech." }
     },
     "positions": {
       "title": "Open Positions",
       "jobs": {
-        "aiResearch": {
-          "title": "AI Research Lead",
-          "tag": "RESEARCH",
-          "location": "SAN FRANCISCO / REMOTE",
-          "experience": "8+ Years Exp"
-        },
-        "neuralArchitect": {
-          "title": "Neural Network Architect",
-          "tag": "ARCHITECTURE",
-          "location": "LONDON / REMOTE",
-          "experience": "5+ Years Exp"
-        },
-        "backendEngineer": {
-          "title": "Backend Systems Engineer",
-          "tag": "ENGINEERING",
-          "location": "TOKYO / REMOTE",
-          "experience": "4+ Years Exp"
-        }
+        "aiResearch": { "title": "AI Research Lead", "tag": "RESEARCH", "location": "SAN FRANCISCO / REMOTE", "experience": "8+ Years Exp" },
+        "neuralArchitect": { "title": "Neural Network Architect", "tag": "ARCHITECTURE", "location": "LONDON / REMOTE", "experience": "5+ Years Exp" },
+        "backendEngineer": { "title": "Backend Systems Engineer", "tag": "ENGINEERING", "location": "TOKYO / REMOTE", "experience": "4+ Years Exp" }
       },
       "cta": "View Details",
-      "general": {
-        "title": "Don't see your fit?",
-        "description": "We are always looking for exceptional talent in fields we haven't even named yet.",
-        "button": "Send General Application"
-      }
+      "general": { "title": "Don't see your fit?", "description": "We are always looking for exceptional talent.", "button": "Send General Application" }
     }
   }
 }
